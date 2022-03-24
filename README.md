@@ -7,15 +7,9 @@
 - 📫 How to reach me: azzmnralwmansyur7273@gmail.com'
 
 ### Github Stats
-<div style="display:flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&border_color=141E61" alt="Anurag's GitHub stats">
-    <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61" alt="Top Langs">
-  </a>
-</div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&border_color=141E61) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&border_color=141E61)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azzmnrwebdev&theme=radical&border=141E61)](https://git.io/streak-stats)
