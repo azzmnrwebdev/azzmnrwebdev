@@ -9,8 +9,8 @@
 ### Github Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&border_color=141E61" alt="Anurag's GitHub stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61" alt="Top Langs">
   </a>
 </p>
 
