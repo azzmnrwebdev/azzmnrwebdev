@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 - 💬 Ask me about Web Development
-- 📫 How to reach me: azzmnralwmansyur7273@gmail.com'
+- 📫 How to reach me: azzmnralwmansyur7273@gmail.com
 
 ### Github Stats
 
