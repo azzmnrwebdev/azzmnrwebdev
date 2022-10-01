@@ -13,7 +13,7 @@ My name is **Muhammad Azzam Nur Alwi Mansyur**. Seorang pelajar dan pengembang w
 ### GitHub Stats and Strike
 <details>
   <summary>GitHub Stats</summary>
-  <br/><br/>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&include_all_commits=true&theme=react&hide_border=true"          alt="Anurag's github stats" />
   </a>
@@ -25,4 +25,8 @@ My name is **Muhammad Azzam Nur Alwi Mansyur**. Seorang pelajar dan pengembang w
 
 <details>
   <summary>Strike</summary>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azzmnrwebdev&theme=react&hide_border=true" />
+  </a>
 </details>
