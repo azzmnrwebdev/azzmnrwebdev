@@ -1,15 +1,9 @@
-### Hi there, I'm Muhammad Azzam 👋
+![](https://komarev.com/ghpvc/?username=azzmnrwebdev&color=blue)
 
-- 👀 I’m interested in Frontend and Backend Web Developers
+### Hey folks! 👋
+My name is **Muhammad Azzam Nur Alwi Mansyur**. Seorang pelajar dan pengembang web, saya menyukai dibidang frontend dan backend. Coding adalah hobby saya, setiap waktu gabut saya belajar dan latihan membuat program yang ada dipikiran.
+
+- ⚡ Fun fact I write code
 - 🌱 I’m currently learning React JS
+- 👀 I’m interested in Frontend and Backend Web Developer
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
-- 💬 Ask me about Web Development
-- 📫 How to reach me: azzmnralwmansyur7273@gmail.com
-
-### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzmnrwebdev&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&border_color=141E61)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azzmnrwebdev&theme=radical&border=141E61)](https://git.io/streak-stats)
