@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=azzmnrwebdev&color=blue)
 
 ## Hey folks! 👋
-My name is **Muhammad Azzam Nur Alwi Mansyur**. A student and web developer, I love the frontend and backend fields. Coding is my hobby, every spare time I learn and practice making programs that come to mind.
+My name is **Muhammad Azzam Nur Alwi Mansyur**. As a newbie to web development, I love the back-end field. Coding is my hobby, In my free time, I study and practice making programs that come to my mind.
 
 - ⚡ Fun fact I write code
 - 🌱 I’m currently learning Express JS
