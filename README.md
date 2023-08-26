@@ -4,9 +4,9 @@
 My name is **Muhammad Azzam Nur Alwi Mansyur**. A student and web developer, I love the frontend and backend fields. Coding is my hobby, every spare time I learn and practice making programs that come to mind.
 
 - ⚡ Fun fact I write code
-- 🌱 I’m currently learning React JS
-- 👀 I’m interested in Frontend and Backend Web Developer
-- 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
+- 🌱 I’m currently learning Express JS
+- 👀 I’m interested in Back-End Web Developer
+- 👯 I’m looking to collaborate on Project Full Time, Open Source, Freelance or Part Time
 
 <hr />
 
