@@ -50,9 +50,9 @@
 
 <p>&nbsp;</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzmnrwebdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="azzmnrwebdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzmnrwebdev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="azzmnrwebdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&locale=en" alt="azzmnrwebdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=dracula&locale=en" alt="azzmnrwebdev" /></p>
 
 <p>&nbsp;</p>
 
