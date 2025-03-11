@@ -54,6 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=dracula&locale=en" alt="azzmnrwebdev" /></p>
 
-<p>&nbsp;</p>
-
-<img src="https://raw.githubusercontent.com/azzmnrwebdev/azzmnrwebdev/output/snake.svg" alt="Snake animation" />
+<p><img src="https://raw.githubusercontent.com/azzmnrwebdev/azzmnrwebdev/output/snake.svg" alt="Snake animation" /></p>
