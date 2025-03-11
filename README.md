@@ -48,8 +48,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </p>
 
-<p>&nbsp;</p>
+<br clear="both">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzmnrwebdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="azzmnrwebdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzmnrwebdev&show_icons=true&theme=radical&locale=en" alt="azzmnrwebdev" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/azzmnrwebdev/azzmnrwebdev/output/snake.svg" alt="Snake animation" />
