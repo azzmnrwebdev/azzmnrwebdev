@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Project Full Time, Open Source, Freelance or Part Time**
 
-- 👨‍💻 All of my projects are available at [https://azzmnrdev.com/](https://azzmnrdev.com/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://azzmnrdev.com/)
 
 - 📫 How to reach me **muhazzmnralwmansyr23@gmail.com**
 
