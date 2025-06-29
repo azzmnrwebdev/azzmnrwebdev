@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzmnrwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="azzmnrwebdev" /> </p>
 
-- 🔭 I’m currently working on **Jamnation Project Mobile Apps**
+<!-- - 🔭 I’m currently working on **Jamnation Project Mobile Apps** -->
 
 - 🌱 I’m currently learning **Go Language**
 
 - 👯 I’m looking to collaborate on **Project Full Time, Open Source, Freelance or Part Time**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/azzmnralwmansyrPortfolio](https://bit.ly/azzmnralwmansyrPortfolio)
+- 👨‍💻 All of my projects are available at [https://azzmnrdev.com/](https://azzmnrdev.com/)
 
 - 📫 How to reach me **muhazzmnralwmansyr23@gmail.com**
 
-- ⚡ Fun fact **I learn new things to keep growing**
+<!-- - ⚡ Fun fact **I learn new things to keep growing** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
