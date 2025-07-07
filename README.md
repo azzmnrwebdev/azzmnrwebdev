@@ -22,7 +22,7 @@
 
 <h3 align="left">Skills:</h3>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="30" alt="css3 logo" />
@@ -48,7 +48,13 @@
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
-</p>
+</p> -->
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+| <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="HTML5"> | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="30" alt="CSS3"> | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript"> | <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="30" alt="PHP"> | <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="30" alt="Dart"> |
+| <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="30" alt="jQuery"> | <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap"> | <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="30" alt="Laravel"> | <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" alt="React"> | <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="30" alt="Flutter"> |
+| <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="30" alt="WordPress"> | <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30" alt="MySQL"> | <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL"> |  |  |
 
 <p>&nbsp;</p>
 
