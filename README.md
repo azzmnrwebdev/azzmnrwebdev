@@ -22,11 +22,33 @@
 
 <h3 align="left">Skills:</h3>
 
-|  |  |  |  |  |
-|--|--|--|--|--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"> |  |  |
+<p align="left"> 
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="30" alt="jquery logo" />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="30" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
+</p>
 
 <p>&nbsp;</p>
 
